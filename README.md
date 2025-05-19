@@ -6,11 +6,11 @@
 
 ###
 
-<h4 align="left">🔭- I am currently studying IT Technician</h4>
+<h4 align="left">🔭- currently studying IT Technician</h4>
 
 ###
 
-<h4 align="left">🔙🔚 - I am interested in the backend area</h4>
+<h4 align="left">🔙🔚 -interested in the backend area</h4>
 
 ###
 
