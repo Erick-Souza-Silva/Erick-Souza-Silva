@@ -51,14 +51,12 @@ visitor@github:~$ cat history.log
 ```
 [LOG] Timeline of my developer journey:
 
-  2018  ···  First "Hello World" ............... [INIT]
-  2019  ···  Built first website ............... [DEPLOYED]
-  2020  ···  Started learning JavaScript ........ [LEARNING]
-  2021  ···  Created first full-stack app ........ [SHIPPED]
-  2022  ···  Open Source contributions .......... [CONTRIBUTING]
-  2023  ···  Cloud & DevOps studies ............. [SCALING]
+  2023  ···  First "Hello World" ............... [INIT]
+  2024  ···  Built first website ............... [DEPLOYED]
+  2024  ···  Started learning JavaScript ........ [LEARNING]
+  2025  ···  Created first full-stack app ........ [SHIPPED]
+  2023  ···  Open Source contributions .......... [CONTRIBUTING]
   2024  ···  Production applications ............ [PRODUCTION]
-  2025  ···  Building scalable systems .......... [ARCHITECTING]
   2026  ···  Still learning every day ........... [∞ RUNNING]
 ```
 
@@ -74,7 +72,7 @@ visitor@github:~$ git log --author="Erick Silva" --oneline --graph
 * c2e8f31 fix: solve bugs at 3am
 * d9a7b14 refactor: improve old code
 * e5c3f22 docs: write documentation
-* f1b9d37 chore: keep going
+* f1b9d37 chore: keep LEARNING
 ```
 
 ---
@@ -117,9 +115,9 @@ visitor@github:~$ ping socials --verbose
 PING socials... receiving response:
 
   ● GitHub    →  github.com/Erick-Souza-Silva      [200 OK]
-  ● LinkedIn  →  linkedin.com/in/Erick-Souza-Silva [200 OK]
-  ● Portfolio →  yourwebsite.dev                   [200 OK]
-  ● Email     →  hello@example.com                 [200 OK]
+  ● LinkedIn  →  linkedin.com/in/erick-souza-silva [200 OK]
+  ● Portfolio →  github.io/Erick.github.io/        [200 OK]
+  ● Email     →  ericsouzasilv@gmail.com           [200 OK]
 
   Status       : ██ ONLINE
   Availability : ██ OPEN TO COLLABORATION
@@ -128,9 +126,9 @@ PING socials... receiving response:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erick-Souza-Silva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erick-souza-silva)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://erick-souza-silva.github.io/Erick.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericsouzasilv@gmail.com)
 
 </div>
 
