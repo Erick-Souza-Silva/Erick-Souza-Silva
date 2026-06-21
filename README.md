@@ -2,7 +2,7 @@
 
 <!-- TERMINAL HEADER ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=visitor%40github%3A~%24+whoami;%3E+Erick+Silva;%3E+Back+End;%3E+Open+Source+Enthusiast" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=visitor%40github%3A~%24+whoami;%3E+Erick+Silva;%3E+Computer+Engineering+student;%3E+Open+Source+Enthusiast" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0969DA&background=F6F8FA&center=true&vCenter=true&width=600&height=60&lines=visitor%40github%3A~%24+whoami;%3E+Erick+Silva;%3E+Back+End;%3E+Open+Source+Enthusiast" alt="Typing SVG" />
 </picture>
 
@@ -17,8 +17,8 @@ visitor@github:~$ cat about.txt
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   Name     →  Erick De Souza SIlva                          │
-│   Role     →  Back End  Developer                           │
+│   Name     →  Erick De Souza Silva                          │
+│   Role     →  Computer Engineering student                  │
 │   Focus    →  Open Source · Web · AI                        │
 │   Status   →  ██████████ Coding...                          │
 │                                                             │
